@@ -11,4 +11,5 @@ v2ray
 
 clash
 | 项目 | 订阅地址 |
+| --- | --- |
 | https://github.com/freenodes/freenodes | https://ghproxy.com/https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml |
