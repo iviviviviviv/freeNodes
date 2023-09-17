@@ -11,10 +11,14 @@ v2ray
 | [mianfeifq/share](https://github.com/mianfeifq/share) | https://ghproxy.com/https://raw.githubusercontent.com/mianfeifq/share/main/data2023094.txt |
 | [Flik6/getNode](https://github.com/Flik6/getNode) | https://ghproxy.com/https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt |
 
+
 clash
 | 项目 | 订阅地址 |
 | --- | --- |
 | [freenodes/freenodes](https://github.com/freenodes/freenodes) | https://ghproxy.com/https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml |
 
+
 好用的节点
+```
 trojan://3febb05ea76a940f@45.11.104.94:3306?security=tls&sni=n2.gladns.com&type=ws&host=n2.gladns.com&path=%2Fgateway%2Fconnect#HK_speednode_0040
+```
