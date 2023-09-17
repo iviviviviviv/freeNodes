@@ -8,8 +8,13 @@ v2ray
 | [githubvpn007/v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn) | https://9527521.xyz/pubconfig/0lLVPSX7cUuagKjQ |
 | [ts-sf/fly](https://github.com/ts-sf/fly) | https://ghproxy.com/https://raw.githubusercontent.com/ts-sf/fly/main/v2 |
 | [ZywChannel/free](https://github.com/ZywChannel/free) | https://ghproxy.com/https://raw.githubusercontent.com/ZywChannel/free/main/sub |
+| [mianfeifq/share](https://github.com/mianfeifq/share) | https://ghproxy.com/https://raw.githubusercontent.com/mianfeifq/share/main/data2023094.txt |
+| [Flik6/getNode](https://github.com/Flik6/getNode) | https://ghproxy.com/https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt |
 
 clash
 | 项目 | 订阅地址 |
 | --- | --- |
 | [freenodes/freenodes](https://github.com/freenodes/freenodes) | https://ghproxy.com/https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml |
+
+好用的节点
+trojan://3febb05ea76a940f@45.11.104.94:3306?security=tls&sni=n2.gladns.com&type=ws&host=n2.gladns.com&path=%2Fgateway%2Fconnect#HK_speednode_0040
