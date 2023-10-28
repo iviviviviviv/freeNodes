@@ -16,5 +16,5 @@
 | [freenodes/freenodes](https://github.com/freenodes/freenodes) | https://ghproxy.com/https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml | 
 ### 好用的节点 
 ```
-trojan://3febb05ea76a940f@45.11.104.94:3306?security=tls&sni=n2.gladns.com&type=ws&host=n2.gladns.com&path=%2Fgateway%2Fconnect#HK_speednode_0040
+
 ```
