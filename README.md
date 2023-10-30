@@ -11,11 +11,12 @@
 | [mianfeifq/share](https://github.com/mianfeifq/share) | https://ghproxy.com/https://raw.githubusercontent.com/mianfeifq/share/main/data2023109.txt |
 | [Flik6/getNode](https://github.com/Flik6/getNode) | https://ghproxy.com/https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt | 
 | [vveg26/chromego_merge](https://github.com/vveg26/chromego_merge) | https://mareep.netlify.app/sub/shadowrocket_base64.txt | 
+| [adiwzx/freenode](https://github.com/adiwzx/freenode) | https://ghproxy.com/https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt | 
 ### clash 
 | 项目 | 订阅地址 |
 | :----- | :----- |
 | [freenodes/freenodes](https://github.com/freenodes/freenodes) | https://ghproxy.com/https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml | 
-| [zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro) | https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml | 
+| [zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro) | https://ghproxy.com/https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml | 
 ### 好用的节点 
 ```
 
