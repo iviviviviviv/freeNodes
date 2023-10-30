@@ -15,6 +15,7 @@
 | 项目 | 订阅地址 |
 | :----- | :----- |
 | [freenodes/freenodes](https://github.com/freenodes/freenodes) | https://ghproxy.com/https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml | 
+| [zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro) | https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml | 
 ### 好用的节点 
 ```
 
