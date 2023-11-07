@@ -8,10 +8,10 @@
 | [githubvpn007/v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn) | https://9527521.xyz/pubconfig/0lLVPSX7cUuagKjQ |
 | [ts-sf/fly](https://github.com/ts-sf/fly) | https://ghproxy.com/https://raw.githubusercontent.com/ts-sf/fly/main/v2 |
 | [ZywChannel/free](https://github.com/ZywChannel/free) | https://ghproxy.com/https://raw.githubusercontent.com/ZywChannel/free/main/sub |
-| [mianfeifq/share](https://github.com/mianfeifq/share) | https://raw.githubusercontent.com/mianfeifq/share/main/data2023116.txt  |
+| [mianfeifq/share](https://github.com/mianfeifq/share) | https://raw.githubusercontent.com/mianfeifq/share/main/data2023116.txt  https://gitlab.com/mianfeifq/share/-/raw/master/data2023116.txt |
 | [Flik6/getNode](https://github.com/Flik6/getNode) | https://ghproxy.com/https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt | 
 | [vveg26/chromego_merge](https://github.com/vveg26/chromego_merge) | https://mareep.netlify.app/sub/shadowrocket_base64.txt | 
-| [adiwzx/freenode](https://github.com/adiwzx/freenode) | https://ghproxy.com/https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt https://gitlab.com/mianfeifq/share/-/raw/master/data2023116.txt| 
+| [adiwzx/freenode](https://github.com/adiwzx/freenode) | https://ghproxy.com/https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt | 
 ### clash 
 | 项目 | 订阅地址 |
 | :----- | :----- |
