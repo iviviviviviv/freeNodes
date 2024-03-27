@@ -12,7 +12,7 @@
 ### clash 
 | 项目 | 订阅地址 |
 | :----- | :----- |
-| [freenodes/freenodes](https://github.com/freenodes/freenodes) | https://cdn.jsdelivr.net/gh/freenodes/freenodes@main/clash.yaml | 
+| [freenodes/freenodes](https://github.com/freenodes/freenodes) | https://fastly.jsdelivr.net/gh/freenodes/freenodes@main/clash.yaml | 
 | [zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro) | https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml | 
 ### 好用的节点 
 ```
