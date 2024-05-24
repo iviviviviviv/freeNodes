@@ -16,4 +16,3 @@
 | :----- | :----- |
 | [freenodes/freenodes](https://github.com/freenodes/freenodes) | https://fastly.jsdelivr.net/gh/freenodes/freenodes@main/clash.yaml | 
 | [zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro) | https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml | 
-| [tolinkshare/freenode](https://github.com/tolinkshare/freenode) | https://toshare.tosslk.xyz/hm7PHxu | 
