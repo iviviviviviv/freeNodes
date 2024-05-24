@@ -1,7 +1,6 @@
 ### v2ray 
 | 项目 | 订阅地址 |
 | :----- | :----- |
-| [freefq/free](https://github.com/freefq/free) | https://bulinkbulink.com/freefq/free/master/v2 |
 | [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree) | https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2 |
 | [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) | https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub |
 | [ts-sf/fly](https://github.com/ts-sf/fly) | https://raw.githubusercontent.com/ts-sf/fly/main/v2 |
@@ -16,3 +15,5 @@
 | :----- | :----- |
 | [freenodes/freenodes](https://github.com/freenodes/freenodes) | https://fastly.jsdelivr.net/gh/freenodes/freenodes@main/clash.yaml | 
 | [zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro) | https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml | 
+| [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) | https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml | 
+| [free18/v2ray](https://github.com/free18/v2ray) | https://paste.gg/p/anning123/c4711c4a98884388a5f3066cbde358ea/files/e63e142b72d14dbd9d0ad39589f016b2/raw | 
