@@ -13,7 +13,6 @@
 ### clash 
 | 项目 | 订阅地址 |
 | :----- | :----- |
-| [freenodes/freenodes](https://github.com/freenodes/freenodes) | https://fastly.jsdelivr.net/gh/freenodes/freenodes@main/clash.yaml | 
 | [zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro) | https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml | 
 | [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) | https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml | 
 | [free18/v2ray](https://github.com/free18/v2ray) | https://paste.gg/p/anning123/c4711c4a98884388a5f3066cbde358ea/files/e63e142b72d14dbd9d0ad39589f016b2/raw | 
