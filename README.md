@@ -7,5 +7,5 @@
 | [Flik6/getNode](https://github.com/Flik6/getNode) | https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt | https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml |
 | [adiwzx/freenode](https://github.com/adiwzx/freenode) | https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt | https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml | 
 | [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) | https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt | https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml | 
-| [free18/v2ray](https://github.com/free18/v2ray) | https://tt.vg/xYWBn | https://tt.vg/Nmlli |
+| [free18/v2ray](https://github.com/free18/v2ray) | https://tt.vg/GiEnW |  |
 | [zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro) |  | https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml |
