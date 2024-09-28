@@ -8,3 +8,4 @@
 | [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) | https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt |  | 
 | [free18/v2ray](https://github.com/free18/v2ray) | https://tt.vg/pHdDS |  |
 | [zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro) |  | https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml |
+| [snakem982/proxypool](https://github.com/snakem982/proxypool) | https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray.txt |  |
